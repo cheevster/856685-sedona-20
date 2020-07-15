@@ -1,7 +1,8 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Чирков](https://up.htmlacademy.ru/adaptive/20/user/856685).
-* Наставник: `Неизвестно`.
+
+* Наставник: [Анатолий Пазюк](https://htmlacademy.ru/profile/id380487).
 
 ---
 
